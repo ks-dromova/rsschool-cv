@@ -22,7 +22,6 @@ abilities.
 - JavaScript
 - HTML5 & CSS3
 - SASS & SCSS
-- GiTLab
 - Bootstrap
 - Figma
 - Teamwork
